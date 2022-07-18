@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daviteixeirarj
-- 👀 I’m interested in Python, JS, HTML, CSS and VBA
-- 🌱 I’m currently learning Python, JS, HTML, and VBA
+- 👀 I’m interested in Python, JS, HTML, CSS
+- 🌱 I’m currently learning Python, JS, HTML, CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me daviteixeira.devcode@gmail.com
 
